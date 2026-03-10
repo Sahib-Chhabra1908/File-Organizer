@@ -43,3 +43,10 @@ python file_organizer.py
 3. Hit **Proceed**.
 4. Watch the chaos turn into order.
 
+Screenshots:
+
+<img width="794" height="639" alt="image" src="https://github.com/user-attachments/assets/2e71644b-e417-422b-81ca-f74ab3c44d79" />
+
+<img width="1675" height="798" alt="image" src="https://github.com/user-attachments/assets/b7f106a6-e3e6-4489-a0f8-e95c868dacb6" />
+
+
